@@ -35,4 +35,3 @@ This repository contains my work for the Web Development Internship offered by *
 ## 👤 Intern Info
 - *Name:* Cheerla Sanjana 
 - *Email:* cheerlasanjana14@gmail.com
--
