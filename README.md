@@ -27,11 +27,6 @@ This repository contains my work for the Web Development Internship offered by *
 - Improved responsiveness using media queries.
 - Submitted final polished version of the project.
 
-## 🔗 Submission Links
-
-- **GitHub Pages (Live Demo):** [Add your live project link here]
-- **LinkedIn Submission Video:** [Add your LinkedIn video link here]
-
 ## 📁 Files Included
 - index.html
 - style.css
